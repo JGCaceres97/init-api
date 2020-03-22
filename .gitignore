@@ -1,3 +1,7 @@
+# REST files
+*.rest
+*.http
+
 # Logs
 logs
 *.log
