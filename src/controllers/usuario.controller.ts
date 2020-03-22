@@ -7,5 +7,3 @@ export const signUp = (req: Request, res: Response) => {
 export const signIn = (req: Request, res: Response) => {
   res.send('SignIn');
 };
-
-export default usuarioCtrl;
